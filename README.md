@@ -100,6 +100,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nvtai24/nvtai24/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/nvtai24/nvtai24/blob/main/output/snake-dark.svg" alt="Snake animation" />
 
 ###
+
+
