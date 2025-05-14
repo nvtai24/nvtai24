@@ -1,4 +1,4 @@
-# <div align="center">👋 Hi there, I'm Nvtai!</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2x2cGNkbXQzd3lhdGhmcG5iMHV0emU3cHhodmpna2V5ZzA5d2c1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Npdl9kOaKFJHuRCBGx/giphy.gif" width="300"/>
