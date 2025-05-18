@@ -99,9 +99,9 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
   <img width="12" />
@@ -123,11 +123,11 @@
   <img width="12" />
   <img src="https://api.iconify.design/devicon:postman.svg" height="40" alt="postman logo"  />
   <img width="12" />
-    <img src="https://api.iconify.design/skill-icons:selenium.svg" height="40" alt="selenium logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
-    <img src="https://api.iconify.design/arcticons:openai-chatgpt.svg" height="40" alt="chatgpt logo"  />
+  <img src="https://api.iconify.design/devicon:sonarqube.svg" height="40" alt="sonarqube logo"  />
   <img width="12" />
-
+  <img src="https://api.iconify.design/skill-icons:selenium.svg" height="40" alt="selenium logo"  />
 </div>
 
 </br>
