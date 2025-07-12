@@ -17,120 +17,29 @@
 ## 🛠️ Tech Stack & Tools
 
 <!-- ### 💻 Programming Languages -->
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
+  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py" />
 </div>
-
-<br/>
 
 <!-- ### 🎨 Frontend Development -->
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,jquery,react,redux" />
 </div>
-
-<br/>
 
 <!-- ### ⚙️ Backend Frameworks -->
-
 <div align="left">
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="hibernate logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,dotnet,nodejs,express" />
 </div>
-
-<br/>
 
 <!-- ### 🗄️ Databases -->
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
 </div>
-
-<br/>
-
-<!-- ### 🛠️ VCS -->
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-</div>
-
-<br/>
 
 <!-- ### 🛠️ DevOps -->
-
 <div align="left">
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,aws" />
 </div>
-
-<br/>
-
-<!-- ### 🛠️ Tool -->
-
-<div align="left">
-  <img src="https://api.iconify.design/devicon:vscode.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-sln.svg" height="40" alt="vs logo"  />
-  <img width="12" />
-  <img src="https://api.iconify.design/devicon:intellij.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://api.iconify.design/devicon:dbeaver.svg" height="40" alt="dbeaver logo"  />
-  <img width="12" />
-  <img src="https://api.iconify.design/devicon:postman.svg" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://api.iconify.design/devicon:sonarqube.svg" height="40" alt="sonarqube logo"  />
-  <img width="12" />
-  <img src="https://api.iconify.design/skill-icons:selenium.svg" height="40" alt="selenium logo"  />
-</div>
-
-</br>
 
 ---
 
