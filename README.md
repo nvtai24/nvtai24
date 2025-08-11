@@ -28,7 +28,7 @@
 
 <!-- ### ⚙️ Backend Frameworks -->
 <div align="left">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,dotnet,nodejs,express,rabbitmq" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,dotnet,nodejs,express" />
 </div>
 
 <!-- ### 🗄️ Databases -->
@@ -38,12 +38,12 @@
 
 <!-- ### 🛠️ DevOps -->
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,selenium" />
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,selenium,nginx,rabbitmq" />
 </div>
 
 <!-- ### 🚀  Deploy -->
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku" />
 </div>
 
 
