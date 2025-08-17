@@ -18,34 +18,33 @@
 
 <!-- ### 💻 Programming Languages -->
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,py" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,cs,js,ts,py" />
 </div>
 
 <!-- ### 🎨 Frontend Development -->
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,jquery,react,redux" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwindcss,jquery,react,redux" />
 </div>
 
 <!-- ### ⚙️ Backend Frameworks -->
 <div align="left">
-<img src="https://skillicons.dev/icons?i=spring,hibernate,dotnet,nodejs,express" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=spring,hibernate,dotnet,nodejs,express,rabbitmq" />
 </div>
 
 <!-- ### 🗄️ Databases -->
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql,postgresql,mongodb,redis" />
 </div>
 
 <!-- ### 🛠️ DevOps -->
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,selenium,nginx,rabbitmq" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,kubernetes,jenkins,sonarqube,nginx" />
 </div>
 
 <!-- ### 🚀  Deploy -->
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,vercel,netlify,railway,heroku" />
 </div>
-
 
 ---
 
